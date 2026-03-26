@@ -1,21 +1,14 @@
+212223060241
 # EXPT NO.3 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL OSPF
 # AIM
-
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
-
 # EQUIPMENTS REQUIRED
 personal computer
-
 cisco packet tracer
-
 # IP ASSIGNMENT
-
 <img width="454" height="194" alt="Screenshot 2026-03-19 at 5 09 54 PM" src="https://github.com/user-attachments/assets/63bb91ba-1647-49f3-b7b7-e121f650b33e" />
-
 # NETWORK DIAGRAM
-
 <img width="364" height="151" alt="Screenshot 2026-03-19 at 5 10 34 PM" src="https://github.com/user-attachments/assets/c7b11d7f-f2a7-41cf-b74e-8e22f9e76dca" />
-
 
 # PROCEDURE
 STEP 1: Open a Packet Tracer Software.
@@ -41,7 +34,8 @@ STEP 11: Check the routing table in Delhi router and Chennai router using show i
 
 <img width="354" height="411" alt="Screenshot 2026-03-19 at 5 11 13 PM" src="https://github.com/user-attachments/assets/570bcf22-ffc9-4b78-96fa-382bea92f935" />
 
-<img width="1024" height="490" alt="image" src="https://github.com/user-attachments/assets/a37a8605-914f-4b5b-bce5-b415b85d3041" />
+<img width="1158" height="528" alt="Screenshot 2026-03-26 174847" src="https://github.com/user-attachments/assets/283da680-8e32-4a92-93b9-596cf3e0bf02" />
+
 
 
 # RESULT
