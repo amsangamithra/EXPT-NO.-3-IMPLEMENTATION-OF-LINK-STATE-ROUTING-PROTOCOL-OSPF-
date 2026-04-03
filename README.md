@@ -1,4 +1,4 @@
-212223060241.
+212223060241
 # EXPT NO.3 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL OSPF
 # AIM
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
